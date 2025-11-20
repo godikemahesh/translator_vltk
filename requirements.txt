@@ -1,0 +1,6 @@
+transformers
+requests
+torch
+zipfile
+gtts
+base64
